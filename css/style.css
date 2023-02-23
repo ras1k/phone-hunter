@@ -1,0 +1,10 @@
+/* styles
+**********/
+
+#error-message{
+    display: none;
+  }
+
+.container{
+    background-color: rgba(177, 162, 157, 0.178);
+}
